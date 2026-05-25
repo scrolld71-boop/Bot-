@@ -14,7 +14,7 @@ from pyrogram.errors import FloodWait, UserNotParticipant
 # 1. CONFIGURATION
 # ==========================================
 OWNER_ID = 8570832903
-BOT_TOKEN = "PUT_NEW_TOKEN_HERE"  # <--- MUST PASTE YOUR TOKEN FROM BOTFATHER HERE
+BOT_TOKEN = "8889926151:AAE7uxVvwofdXDzqC_z4NxFTHgl1M9KQ64c"  # <--- MUST PASTE YOUR TOKEN FROM BOTFATHER HERE
 
 # Telegram API Credentials (From your screenshot)
 API_ID = 37869790
